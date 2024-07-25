@@ -1,22 +1,31 @@
-# ⭐ Javier Molina Reyes
+# Hi there, I'm Javi! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javiermolinar/)](https://www.linkedin.com/in/javiermolinar/)
+![Profile Views](https://komarev.com/ghpvc/?username=javiermolinar&color=blue)
+
+## 🚀 About Me
+I'm a backend software developer currently working at Grafana labs.
 
 ## :books: Currently reading
 
 * A Philosophy of software desing
-* Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
 
 ## :brain: What I'm learning in my spare time
 
-* Working through the SICP
+* How to build my own programming language
 
-<!--
-**javiermolinar/javiermolinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Languages and Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=javiermolinar&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/javiermolinar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javimolina@fastmail.com)
 
--->
+
+![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=javiermolinar&theme=react-dark)
