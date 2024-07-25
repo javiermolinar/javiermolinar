@@ -28,4 +28,4 @@ I'm a backend software developer currently working at Grafana labs.
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:javimolina@fastmail.com)
 
 
-![Your Name's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=javiermolinar&theme=react-dark)
+![Your Name's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=javiermolinar&theme=react-dark)
